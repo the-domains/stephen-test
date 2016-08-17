@@ -1,0 +1,14 @@
+layout_spectrum: 0.741716772550717
+typography_spectrum: 0.19347460847347975
+color:
+  brandStrength: 0.3994108373299241
+  lightness: 0.21365918032824993
+  saturation: 0.28365462156943977
+  rhythmicContrast: 0.1894877536688
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: Stephen Test
