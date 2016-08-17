@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stephen Test]]></title>
+        <description><![CDATA[Stephen Test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 02:11:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Instagram for Business]]></title>
+            <description><![CDATA[<article><h1>Instagram for Business</h1><p>Social media is an incredibly powerful tool - and Instagram is one of the most powerful, so why not use it to its full advantage? With well over 400 million users worldwide, there is an incredibly large audience just waiting to discover your brand.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/44448fd2c0334317cd34ff7c58e0a8a3/noop.jpg?input=https%3A%2F%2Fdesignschool.canva.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2016%2F02%2FInstagram-Grid.jpg"></article>]]></description>
+            <link>https://designschool.canva.com/blog/instagram-for-business/</link>
+            <guid isPermaLink="false">9e794a33-14c4-4223-a14e-8f0af6b0a75d</guid>
+            <pubDate>Wed, 17 Aug 2016 02:11:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
